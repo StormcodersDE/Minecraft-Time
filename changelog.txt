@@ -14,6 +14,12 @@ Updated:
 
 			Release: [https://github.com/AntiqueAtlasTeam/AntiqueAtlas/releases/tag/4.4.9](https://github.com/AntiqueAtlasTeam/AntiqueAtlas/releases/tag/4.4.9)
 
+	Backpacks! (went from Backpacks 3.5.0 for Minecraft 1.12.2 to Backpacks 3.5.2 for Minecraft 1.12.2):
+		Backpacks 3.5.2 for Minecraft 1.12.2:
+			- Fixed crash when a fake player picks up an item
+			- Backpacks that have paused auto-collect now say so in their tooltip
+			- Lightweight backpack interface is now compatible with more mods
+
 	BiblioCraft (went from BiblioCraft v2.4.3 to BiblioCraft v2.4.4):
 		BiblioCraft v2.4.4:
 			v2.4.4
@@ -197,7 +203,14 @@ Updated:
 			- Added the Coke Oven Preheater;
 			- Changed the distance parameters for the Solar Tower and the Reflectors;
 
-	Industrial Foregoing (went from industrialforegoing-1.12.2-1.9.0-163.jar to industrialforegoing-1.12.2-1.9.2-170.jar):
+	Industrial Foregoing (went from industrialforegoing-1.12.2-1.9.0-163.jar to industrialforegoing-1.12.2-1.10.0-173.jar):
+		industrialforegoing-1.12.2-1.10.0-173.jar:
+			 * Added 6 conveyor upgrades that can be added to the conveyor (Extraction, Insertion, Splitting, Bouncing, Dropping and Blinking) (Coded/Buuz135)
+			 * Mob duplicator and Animal Sewer shouldnt waste power anymore (jansamohyl)
+			 * Improved hasAddon checks
+			 * Fixed Enchantment Extractor not splitting enchanted books
+			 * Allowed to use mekanism steel casing in machine recipes (Can be disabled in configs)
+			 * Tree fluid extractor no longer resets progress when the wood is broken
 		industrialforegoing-1.12.2-1.9.2-170.jar:
 			 * Improved fluid handling
 			 * Improved tank color handling
