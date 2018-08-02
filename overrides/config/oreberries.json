@@ -1,0 +1,196 @@
+{
+  "Iron": {
+    "color": "#FFC7A3",
+    "tooltip": "Sweet Irony",
+    "smeltingResult": "minecraft:iron_nugget"
+  },
+  "Gold": {
+    "color": "#FFCC33",
+    "tooltip": "Pure Luster",
+    "smeltingResult": "minecraft:gold_nugget",
+    "rarity": 9,
+    "maxHeight": 32,
+    "sizeChance": 6
+  },
+  "Iridium": {
+    "color": "#d5d5d5",
+    "tooltip": "Very rare",
+    "smeltingResult": "thermalfoundation:material:199",
+    "rarity": 3,
+	"density": 2,
+	"minHeight": 8,
+    "maxHeight": 52,
+    "sizeChance": 3
+  },
+  "Silver": {
+    "color": "#d2d9e3",
+    "tooltip": "Very rare",
+    "smeltingResult": "thermalfoundation:material:194",
+    "rarity": 3,
+	"density": 2,
+	"minHeight": 2,
+    "maxHeight": 14,
+    "sizeChance": 5
+  },
+  "Lead": {
+    "color": "#629a99",
+    "tooltip": "Very rare",
+    "smeltingResult": "thermalfoundation:material:195",
+    "rarity": 3,
+	"density": 2,
+	"minHeight": 3,
+    "maxHeight": 18,
+    "sizeChance": 5
+  },
+  "Nickel": {
+    "color": "#826a4b",
+    "tooltip": "Very rare",
+    "smeltingResult": "thermalfoundation:material:197",
+    "rarity": 2,
+	"density": 2,
+	"minHeight": 2,
+    "maxHeight": 19,
+    "sizeChance": 5
+  },
+  "Cobalt": {
+    "color": "#0e48c1",
+    "tooltip": "Very rare",
+	"oredictNames": ["tconstruct:nuggets, nuggetCobalt"],
+    "smeltingResult": "tconstruct:nuggets",
+    "rarity": 3,
+	"density": 2,
+    "maxHeight": 32,
+    "sizeChance": 6,
+	"replaceBlocks": ["minecraft:netherrack"],
+	"dimensions": [-1]
+  },
+  "Ardite": {
+    "color": "#CC3939",
+    "tooltip": "Very rare",
+	"oredictNames": ["tconstruct:nuggets:1, nuggetArdite"],
+    "smeltingResult": "tconstruct:nuggets:1",
+    "rarity": 3,
+	"density": 2,
+    "maxHeight": 32,
+    "sizeChance": 6,
+	"replaceBlocks": ["minecraft:netherrack"],
+	"dimensions": [-1]
+  },
+  "Uranium": {
+    "color": "#4fc84c",
+    "tooltip": "Very rare",
+    "smeltingResult": "immersiveengineering:metal:25",
+    "rarity": 3,
+	"density": 2,
+    "maxHeight": 28,
+    "sizeChance": 4
+  },
+  "CertusQuartz": {
+    "color": "#a0bebe",
+    "smeltingResult": {
+      "name": "CertusQuartz Nugget",
+      "color": "#a0bebe",
+      "oredictNames": ["nuggetCertusQuartz"],
+      "ingotNames": ["appliedenergistics2:material"]
+    },
+	"rarity": 1,
+    "density": 2,
+    "maxHeight": 46,
+    "sizeChance": 2
+  },
+  "Copper": {
+    "color": "#FF8833",
+    "tooltip": "Tastes like metal",
+    "smeltingResult": {
+      "color": "#FF6600"
+    },
+    "rarity": 4,
+    "density": 2,
+    "minHeight": 20,
+    "maxHeight": 60
+  },
+  "Tin": {
+    "color": "#BB4422",
+    "tooltip": "Tin Man",
+    "smeltingResult": {
+      "color": "#FFBA80"
+    },
+    "rarity": 4,
+    "density": 2,
+    "maxHeight": 40
+  },
+  "Aluminum": {
+    "color": "#EEFFFF",
+    "tooltip": "White Chocolate",
+    "oredictNames": [
+      "nuggetAluminum",
+      "nuggetAluminium"
+    ],
+    "smeltingResult": {
+      "ingotNames": [
+        "ingotAluminum",
+        "ingotAluminium"
+      ]
+    },
+    "rarity": 3,
+    "density": 2,
+    "maxHeight": 60,
+    "sizeChance": 14
+  },
+  "Coal": {
+    "color": "#101111",
+    "smeltingResult": {
+      "name": "Coal Nugget",
+      "color": "#101111",
+      "oredictNames": ["nuggetCoal"],
+      "ingotNames": ["itemCoal"]
+    },
+	"rarity": 3,
+    "density": 2,
+    "maxHeight": 48,
+    "sizeChance": 5
+  },
+  "Netherquartz": {
+    "color": "#f9f8f5",
+    "smeltingResult": {
+      "name": "Netherquartz Nugget",
+      "color": "#f9f8f5",
+      "oredictNames": ["nuggetNetherquartz"],
+      "ingotNames": ["gemQuartz"]
+    },
+	"rarity": 4,
+    "density": 2,
+    "maxHeight": 52,
+    "sizeChance": 14,
+	"replaceBlocks": ["minecraft:netherrack"],
+	"dimensions": [-1]
+  },
+  "Glowstone": {
+    "color": "#ffff00",
+    "smeltingResult": {
+      "name": "Glowstone Nugget",
+      "color": "#ffff00",
+      "oredictNames": ["nuggetGlowstone"],
+      "ingotNames": ["glowstone"]
+    },
+	"rarity": 4,
+    "density": 2,
+    "maxHeight": 52,
+    "sizeChance": 14,
+	"replaceBlocks": ["minecraft:netherrack"],
+	"dimensions": [-1]
+  },
+  "Essence": {
+    "bushName": "Essence Berry Bush",
+    "berryName": "Concentrated Essence Berry",
+    "tooltip": "Tastes like Creeper",
+    "oredictNames": [],
+    "smeltingResult": null,
+    "special": "essence",
+    "growsInLight": true,
+    "tradeable": false,
+    "preferredHeight": 48,
+    "maxHeight": 32,
+    "sizeChance": 8
+  }
+}

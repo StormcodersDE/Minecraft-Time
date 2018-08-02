@@ -1,0 +1,8 @@
+[
+  {
+    "internalOreName": "thaumcraft:ore_cinnabar",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/cinnabar",
+    "oreDirectories": []
+  }
+]

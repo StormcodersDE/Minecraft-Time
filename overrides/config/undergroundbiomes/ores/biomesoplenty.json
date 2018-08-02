@@ -1,0 +1,44 @@
+[
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/ruby",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/peridot",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 3,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/topaz",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 4,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/tanzanite",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 5,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/malachite",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 6,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/sapphire",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "biomesoplenty:gem_ore",
+    "meta": 7,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/amber",
+    "oreDirectories": []
+  }
+]

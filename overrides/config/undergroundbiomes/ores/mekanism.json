@@ -1,0 +1,20 @@
+[
+  {
+    "internalOreName": "mekanism:oreblock",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/mekanism/osmium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "mekanism:oreblock",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/mekanism/copper",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "mekanism:oreblock",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/mekanism/tin",
+    "oreDirectories": []
+  }
+]

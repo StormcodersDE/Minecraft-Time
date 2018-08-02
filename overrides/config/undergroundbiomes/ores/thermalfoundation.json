@@ -1,0 +1,62 @@
+[
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/copper",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/tin",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 4,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/aluminum",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 3,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/lead",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/silver",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 5,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/nickel",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 6,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/platinum",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 7,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/iridium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore",
+    "meta": 8,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/mana_infused",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "thermalfoundation:ore_fluid",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/destabilized_redstone",
+    "oreDirectories": []
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "internalOreName": "modernmetals:aluminum_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/aluminum",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:beryllium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/beryllium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:boron_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/boron",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:cadmium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/cadmium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:chromium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/chromium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:iridium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/iridium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:magnesium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/magnesium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:manganese_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/manganese",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:osmium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/osmium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:plutonium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/plutonium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:rutile_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/rutile",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:tantalum_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/tantalum",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:titanium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/titanium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:tungsten_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/tungsten",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:uranium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/uranium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "modernmetals:zirconium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/modernmetals/zirconium",
+    "oreDirectories": []
+  }
+]

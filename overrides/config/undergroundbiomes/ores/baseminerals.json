@@ -1,0 +1,44 @@
+[
+  {
+    "internalOreName": "baseminerals:lithium_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/lithium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "baseminerals:nither_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/nither",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "baseminerals:phosphorus_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/phosphorus",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "baseminerals:potash_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/potash",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "baseminerals:salt_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/salt",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "baseminerals:saltpeter_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/saltpeter",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "baseminerals:sulfur_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/baseminerals/sulfur",
+    "oreDirectories": []
+  }
+]

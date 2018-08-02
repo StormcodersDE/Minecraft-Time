@@ -1,0 +1,44 @@
+[
+  {
+    "internalOreName": "minecraft:diamond_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/diamond",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "minecraft:iron_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/iron",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "minecraft:coal_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/coal",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "minecraft:lapis_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/lapis",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "minecraft:redstone_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/redstone",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "minecraft:gold_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/gold",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "minecraft:emerald_ore",
+    "meta": -1,
+    "overlay": "undergroundbiomes:blocks/overlays/minecraft/emerald",
+    "oreDirectories": []
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "internalOreName": "appliedenergistics2:quartz_ore",
+    "meta": -1,
+    "overlay": "appliedenergistics2:blocks/charged_quartz_ore_light",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "appliedenergistics2:charged_quartz_ore",
+    "meta": -1,
+    "overlay": "appliedenergistics2:blocks/charged_quartz_ore_light",
+    "oreDirectories": []
+  }
+]

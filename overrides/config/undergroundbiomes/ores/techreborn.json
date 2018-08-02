@@ -1,0 +1,44 @@
+[
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/galena",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/iridium",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/ruby",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 3,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/sapphire",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 4,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/bauxite",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 12,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/lead",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "techreborn:ore",
+    "meta": 13,
+    "overlay": "undergroundbiomes:blocks/overlays/techreborn/silver",
+    "oreDirectories": []
+  }
+]

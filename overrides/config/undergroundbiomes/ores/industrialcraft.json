@@ -1,0 +1,26 @@
+[
+  {
+    "internalOreName": "ic2:resource",
+    "meta": 1,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/copper",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "ic2:resource",
+    "meta": 2,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/lead",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "ic2:resource",
+    "meta": 3,
+    "overlay": "undergroundbiomes:blocks/overlays/thermalfoundation/tin",
+    "oreDirectories": []
+  },
+  {
+    "internalOreName": "ic2:resource",
+    "meta": 4,
+    "overlay": "undergroundbiomes:blocks/overlays/custom/uranium",
+    "oreDirectories": []
+  }
+]
