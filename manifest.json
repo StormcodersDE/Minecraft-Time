@@ -11,10 +11,15 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Minecraft Time (1)",
-  "version": "0.93 (BETA)",
+  "version": "0.93b Beta",
   "author": "DebiCurse",
   "projectID": 289997,
   "files": [
+    {
+      "projectID": 225608,
+      "fileID": 2460570,
+      "required": true
+    },
     {
       "projectID": 223008,
       "fileID": 2540146,
@@ -157,7 +162,7 @@
     },
     {
       "projectID": 266515,
-      "fileID": 2590485,
+      "fileID": 2601636,
       "required": true
     },
     {
@@ -227,7 +232,7 @@
     },
     {
       "projectID": 225561,
-      "fileID": 2597220,
+      "fileID": 2601600,
       "required": true
     },
     {
@@ -307,7 +312,7 @@
     },
     {
       "projectID": 278494,
-      "fileID": 2559212,
+      "fileID": 2601349,
       "required": true
     },
     {
@@ -631,6 +636,11 @@
       "required": true
     },
     {
+      "projectID": 221826,
+      "fileID": 2580971,
+      "required": true
+    },
+    {
       "projectID": 231951,
       "fileID": 2583282,
       "required": true
@@ -662,7 +672,7 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2599600,
+      "fileID": 2601237,
       "required": true
     },
     {
@@ -672,7 +682,7 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2599602,
+      "fileID": 2601238,
       "required": true
     },
     {
@@ -683,11 +693,6 @@
     {
       "projectID": 231382,
       "fileID": 2593747,
-      "required": true
-    },
-    {
-      "projectID": 221826,
-      "fileID": 2580971,
       "required": true
     }
   ],
