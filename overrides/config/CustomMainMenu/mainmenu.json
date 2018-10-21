@@ -81,7 +81,7 @@
 		
 		"Make a Server":
         {
-            "text" : "Gportal",
+            "text" : "Server",
             "posX" : 155,
             "posY" : -15,
             "width" : 90,
@@ -117,7 +117,7 @@
 		
 		"Stream":
         {
-            "text" : "Stream",
+            "text" : "Livestream",
             "posX" : 155,
             "posY" : 15,
             "width" : 90,
@@ -193,7 +193,7 @@
         "refresh":
         {
             "text" : "",
-            "posX" : 15,
+            "posX" : -100,
             "posY" : -25,
             "width" : 20,
             "height" : 20,
@@ -223,7 +223,7 @@
 		},
 		"modsloaded":{
 			"text" : "#modsloaded# Mods Loaded",
-            "posX" : -47,
+            "posX" : -54,
             "posY" : -19,
 			"fontSize" : .6,
             "color" : -1,

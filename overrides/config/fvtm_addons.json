@@ -1,0 +1,728 @@
+{
+  "format": 1,
+  "entries": [
+    {
+      "addon": false,
+      "name": "AdvancedRocketry-1.12.2-1.4.1-105-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ae2stuff-0.7.0.4-mc1.12.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "angelRingToBauble-1.12-0.3.1.50+d4e654e.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "antiqueatlas-1.12.2-4.4.9.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "appliedenergistics2-rv5-stable-11.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "architecturecraft-1.12-3.80.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "backpacks 1.12.2 - 3.5.4.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Baubles-1.12-1.5.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "bdlib-1.14.3.12-mc1.12.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "BetterBuildersWands-1.12-0.12.0.251+d6c4d93.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "BetterFps-1.4.8.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "BetterPlacement-1.0.0-1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "BiblioCraft[v2.4.5][MC1.12.2].jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "BiomesOPlenty-1.12.2-7.0.1.2402-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Blur-1.0.4-14.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "BrandonsCore-1.12.2-2.4.5.176-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "buildcraft-7.99.18.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "buildcraft-compat-7.99.15.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CameraObscura-1.0.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "car-1.12.2-1.2.12.jar.disabled",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Ceramics-1.12-1.3.4.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Chameleon-1.12-4.1.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Chisel-MC1.12.2-0.2.1.35.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "chiselsandbits-14.26.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CLib-1.0.2.31-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CoFHCore-1.12.2-4.6.1.22-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Controlling-3.0.6.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CraftTweaker2-1.12-4.1.11.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CsokiCraftUtil-1.3.6.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CTM-MC1.12.2-0.3.2.18.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CustomMainMenu-MC1.12.2-2.0.8.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "CustomNPCs_1.12.2(26aug18).jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Decocraft-2.6.2_1.12.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Draconic-Evolution-1.12.2-2.3.15.312-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "DynamicSurroundings-1.12.2-3.4.9.16.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "EnchantingTable-1.12-1.1.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "EnderCore-1.12.2-0.5.41.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "EnderIO-1.12.2-5.0.36.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Exchangers-1.12.2-2.8.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "extrautils2-1.12-1.9.6.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ExtremeReactors-1.12.2-0.4.5.49.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "FastLeafDecay-v14.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "FastWorkbench-1.12.2-1.5.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Fexcraft+Common+Library-XII.43.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": true,
+      "enabled": true,
+      "name": "Fexcraft+Vehicle+Pack-1.16.1-1.12.x.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "foamfix-0.10.2-1.12.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Forgelin-1.7.4.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ForgeMultipart-1.12.2-2.6.0.79-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "FTBLib-5.3.0.56.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "FTBUtilities-5.3.0.52.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "furniture-5.14.0-1.12.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "FVTM-2.8.33-1.12.x.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "GardenStuff-1.12-2.1.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": true,
+      "enabled": true,
+      "name": "General+Essentials+Pack-1.6.2-1.12.x.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Hats-1.12.2-7.0.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": true,
+      "enabled": true,
+      "name": "Heavy+Cargo+Pack-1.4.2-1.12.x.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "iChunUtil-1.12.2-7.1.4.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "immcraft-1.12-1.5.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ImmersiveCables-1.12.2-1.3.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ImmersiveEngineering-0.12-86.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "immersivepetroleum-1.12.2-1.1.9.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ImmersiveRailroading-1.3.3_1.12.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "immersivetech-1.12-1.3.10.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "industrialforegoing-1.12.2-1.11.4-214.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "IntegrationForegoing-1.12.2-1.7.4.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "InventoryTweaks-1.63.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ironchest-1.12.2-7.0.52.837.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "JEHC-1.12.2-1.6.1.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "jeiintegration_1.12.2-1.5.1.36.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "jei_1.12.2-4.13.1.220.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "journeymap-1.12.2-5.5.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "JustEnoughResources-1.12.2-0.8.9.48.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "LibVulpes-1.12.2-0.2.8-39-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "malisisblocks-1.12.2-6.1.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "malisiscore-1.12.2-6.4.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "malisisdoors-1.12.2-7.3.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "malisisswitches-1.12.2-5.1.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Mantle-1.12-1.3.2.24.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "MatterOverdrive-1.12.2-0.6.0.197-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "mcjtylib-1.12-3.0.6.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "MobGrindingUtils-0.3.11.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ModernConverter-2.1.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ModernCraftCore-2.0.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "modnametooltip_1.12.2-1.10.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "modtweaker-4.0.14.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "MouseTweaks-2.8-mc1.12.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "MrTJPCore-1.12.2-2.1.3.35-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "MTLib-3.0.5.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "natura-1.12.2-4.3.2.62.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "NoMoreRecipeConflict-0.12(1.12.2).jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "omlib-1.12.2-3.0.1-162.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ompd-1.12.2-3.0.0-36.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "OpenBlocks-1.12.2-1.8.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "OpenComputers-MC1.12.2-1.7.2.67.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "OpenModsLib-1.12.2-0.12.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "openmodularturrets-1.12.2-3.0.1-264.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "oreberries-1.12.x-0.5.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "p455w0rdslib-1.12-2.0.35.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Pam\u0027s HarvestCraft 1.12.2za.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "PortalGun-1.12.2-7.0.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ProjectRed-1.12.2-4.9.1.92-Base.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ProjectRed-1.12.2-4.9.1.92-fabrication.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ProjectRed-1.12.2-4.9.1.92-integration.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ProjectRed-1.12.2-4.9.1.92-lighting.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ProjectRed-1.12.2-4.9.1.92-mechanical.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ProjectRed-1.12.2-4.9.1.92-world.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "PTRLib-1.0.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "reauth-3.6.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Reliquary-1.12.2-1.3.4.780.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ResourceLoader-MC1.12.1-1.5.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "rftools-1.12-7.56.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "rftoolsdim-1.12-5.61.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "spatialservermod-1.3.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "SplashAnimation-0.2.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "StorageDrawers-1.12.2-5.3.7.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "StorageDrawersExtras-1.12-3.1.0.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Sync-1.12.2-7.0.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "TConstruct-1.12.2-2.10.1.87.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "tesla-core-lib-1.12.2-1.0.15.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "theoneprobe-1.12-1.4.24.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ThermalDynamics-1.12.2-2.5.3.16-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ThermalExpansion-1.12.2-5.5.2.39-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ThermalFoundation-1.12.2-2.6.1.22-universal.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "TinkersComplement-1.12.2-0.2.3b.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "TinkerToolLeveling-1.12.2-1.0.5.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "topaddons-1.12.2-1.9.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "torchmaster_1.12.2-1.6.4.62.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "TrackAPI-1.1_1.12.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "UndergroundBiomesConstructs-1.12-1.2.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "UniDict-1.12.2-2.9.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ViesCraft-1.12.2-5.9.13.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "WanionLib-1.12.2-1.5.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "Waystones_1.12.2-4.0.67.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "WirelessCraftingTerminal-1.12.2-3.9.68.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "worldedit-forge-mc1.12-6.1.8-dist.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "YABBA-1.1.2.28.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "zerocore-1.12-0.1.2.2.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "[1.12.x] SecurityCraft v1.8.8.1.jar",
+      "parent": "/mods/"
+    },
+    {
+      "addon": false,
+      "name": "ChickenASM-1.12-1.0.2.7.jar",
+      "parent": "/mods/1.12.2/"
+    },
+    {
+      "addon": false,
+      "name": "IGW-Mod-1.12.2-1.4.4-15-universal.jar",
+      "parent": "/mods/"
+    }
+  ]
+}
