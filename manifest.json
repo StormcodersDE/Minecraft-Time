@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Minecraft Time (1)",
-  "version": "0.96 (Beta)",
+  "version": "0.96 (Beta) - PreVersion",
   "author": "DebiCurse",
   "projectID": 289997,
   "files": [
@@ -47,7 +47,7 @@
     },
     {
       "projectID": 236542,
-      "fileID": 2634442,
+      "fileID": 2635558,
       "required": true
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "projectID": 250617,
-      "fileID": 2635254,
+      "fileID": 2636666,
       "required": true
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "projectID": 55438,
-      "fileID": 2630104,
+      "fileID": 2636584,
       "required": true
     },
     {
@@ -407,7 +407,7 @@
     },
     {
       "projectID": 288885,
-      "fileID": 2614071,
+      "fileID": 2636769,
       "required": true
     },
     {
@@ -432,7 +432,7 @@
     },
     {
       "projectID": 61811,
-      "fileID": 2616483,
+      "fileID": 2636565,
       "required": true
     },
     {
@@ -512,7 +512,7 @@
     },
     {
       "projectID": 277736,
-      "fileID": 2615203,
+      "fileID": 2635637,
       "required": true
     },
     {
@@ -682,7 +682,7 @@
     },
     {
       "projectID": 253043,
-      "fileID": 2632700,
+      "fileID": 2636441,
       "required": true
     },
     {
