@@ -1,0 +1,4 @@
+# Ignored Files and Folders when generating .zip
+.gitattributes export-ignore
+.gitignore export-ignore
+/.github export-ignore
