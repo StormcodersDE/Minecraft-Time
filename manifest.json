@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Minecraft Time (1)",
-  "version": "0.97 (Beta) - PreBuildV1",
+  "version": "0.98 (Beta)",
   "author": "DebiCurse",
   "projectID": 289997,
   "files": [
@@ -37,17 +37,12 @@
     },
     {
       "projectID": 272671,
-      "fileID": 2546782,
+      "fileID": 2657616,
       "required": true
     },
     {
       "projectID": 254332,
       "fileID": 2578257,
-      "required": true
-    },
-    {
-      "projectID": 236542,
-      "fileID": 2654587,
       "required": true
     },
     {
@@ -76,11 +71,6 @@
       "required": true
     },
     {
-      "projectID": 236541,
-      "fileID": 2644729,
-      "required": true
-    },
-    {
       "projectID": 60089,
       "fileID": 2632649,
       "required": true
@@ -92,7 +82,7 @@
     },
     {
       "projectID": 74072,
-      "fileID": 2630883,
+      "fileID": 2657445,
       "required": true
     },
     {
@@ -212,7 +202,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2654698,
+      "fileID": 2656831,
       "required": true
     },
     {
@@ -342,7 +332,7 @@
     },
     {
       "projectID": 254268,
-      "fileID": 2652279,
+      "fileID": 2657299,
       "required": true
     },
     {
@@ -402,7 +392,7 @@
     },
     {
       "projectID": 293268,
-      "fileID": 2578006,
+      "fileID": 2656010,
       "required": true
     },
     {
@@ -451,11 +441,6 @@
       "required": true
     },
     {
-      "projectID": 277736,
-      "fileID": 2637007,
-      "required": true
-    },
-    {
       "projectID": 267939,
       "fileID": 2637650,
       "required": true
@@ -482,7 +467,7 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2649021,
+      "fileID": 2657553,
       "required": true
     },
     {
@@ -522,7 +507,7 @@
     },
     {
       "projectID": 225608,
-      "fileID": 2460570,
+      "fileID": 2655056,
       "required": true
     },
     {
@@ -567,7 +552,7 @@
     },
     {
       "projectID": 238403,
-      "fileID": 2580273,
+      "fileID": 2657628,
       "required": true
     },
     {
@@ -616,13 +601,8 @@
       "required": true
     },
     {
-      "projectID": 307806,
-      "fileID": 2650181,
-      "required": true
-    },
-    {
       "projectID": 238891,
-      "fileID": 2650200,
+      "fileID": 2657343,
       "required": true
     },
     {
@@ -648,6 +628,26 @@
     {
       "projectID": 286660,
       "fileID": 2651318,
+      "required": true
+    },
+    {
+      "projectID": 277736,
+      "fileID": 2657072,
+      "required": true
+    },
+    {
+      "projectID": 307806,
+      "fileID": 2657337,
+      "required": true
+    },
+    {
+      "projectID": 241291,
+      "fileID": 2651041,
+      "required": true
+    },
+    {
+      "projectID": 284331,
+      "fileID": 2656802,
       "required": true
     }
   ],
