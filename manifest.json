@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2768",
+        "id": "forge-14.23.5.2784",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Minecraft Time (1)",
-  "version": "0.99 (Beta)",
+  "version": "1.0",
   "author": "DebiCurse",
   "projectID": 289997,
   "files": [
@@ -202,7 +202,7 @@
     },
     {
       "projectID": 238222,
-      "fileID": 2658389,
+      "fileID": 2659304,
       "required": true
     },
     {
@@ -427,7 +427,7 @@
     },
     {
       "projectID": 237167,
-      "fileID": 2648347,
+      "fileID": 2658870,
       "required": true
     },
     {
@@ -467,7 +467,7 @@
     },
     {
       "projectID": 237102,
-      "fileID": 2657553,
+      "fileID": 2659196,
       "required": true
     },
     {
