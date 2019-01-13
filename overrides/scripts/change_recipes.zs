@@ -6,6 +6,14 @@ print("Initializing 'change_recipes.zs'...");
 #Remove ChunkLoader from OC (use FTBU to manage chunkloading)
 recipes.remove(<opencomputers:upgrade:4>);
 
+##Fixed crafting recipe for copper ingots with copper nuggets (TE/IE), because it override with another Unidict recipe
+recipes.remove(<thermalfoundation:material:128>);
+recipes.addShaped(<thermalfoundation:material:128>, [[<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>]]);
+
+##Fixed carfting recipe for copper ingot with block of copper(TE/IE), because it override with another Unidict recipe
+recipes.remove(<thermalfoundation:material:128>);
+recipes.addShapeless(<thermalfoundation:material:128> *9,[<ore:blockCopper>]);
+
 ##Fixed AlumiumIngot CraftingRecipe TE
 recipes.remove(<thermalfoundation:material:132>);
 recipes.addShaped(<thermalfoundation:material:132>, [[<thermalfoundation:material:196>, <thermalfoundation:material:196>, <thermalfoundation:material:196>], [<thermalfoundation:material:196>, <thermalfoundation:material:196>, <thermalfoundation:material:196>], [<thermalfoundation:material:196>, <thermalfoundation:material:196>, <thermalfoundation:material:196>]]);
@@ -21,14 +29,6 @@ recipes.remove(<extrautils2:bagofholding>);
 ##Change recipe Resonating Redstone Crystal (Extra Utilities 2, RedstoneOre + Petrotheum Dust), while overlaps with Redstone Dust recipe
 recipes.remove(<extrautils2:ingredients>);
 recipes.addShaped(<extrautils2:ingredients>, [[<extrautils2:endershard>, <minecraft:redstone>, <minecraft:redstone>], [<minecraft:redstone>, <minecraft:redstone>, null], [null, null, null]]);
-
-##Change recipe Cable Insolation (Ultimate Car Mod), while overlaps with Seat (Advanced Rocketry)
-recipes.remove(<car:cable_insulator>);
-recipes.addShaped(<car:cable_insulator>, [[<minecraft:wool>, null, null], [null, <minecraft:wool>, null], [null, null, <minecraft:wool>]]);
-
-###Change recipe Iron Sticks (Ultimate Car Mod), while overlaps with Iron Rods (Immersive Engineering)
-recipes.remove(<car:iron_stick>);
-recipes.addShaped(<car:iron_stick>*6, [[null, <minecraft:iron_ingot>, null], [null, <minecraft:iron_ingot>, null], [null, <minecraft:iron_ingot>, null]]);
 
 ##Architecture Craft Pulley
 recipes.remove(<architecturecraft:largepulley>);
