@@ -14,6 +14,10 @@ recipes.addShaped(<thermalfoundation:material:128>, [[<ore:nuggetCopper>, <ore:n
 recipes.remove(<thermalfoundation:material:128>);
 recipes.addShapeless(<thermalfoundation:material:128> *9,[<ore:blockCopper>]);
 
+##Repair recípe from stone button
+recipes.remove(<minecraft:stone_button>);
+recipes.addShaped(<minecraft:stone_button>, [[null, null, null], [null, <minecraft:stone>, null], [null, null, null]]);
+
 ##Fixed AlumiumIngot CraftingRecipe TE
 recipes.remove(<thermalfoundation:material:132>);
 recipes.addShaped(<thermalfoundation:material:132>, [[<thermalfoundation:material:196>, <thermalfoundation:material:196>, <thermalfoundation:material:196>], [<thermalfoundation:material:196>, <thermalfoundation:material:196>, <thermalfoundation:material:196>], [<thermalfoundation:material:196>, <thermalfoundation:material:196>, <thermalfoundation:material:196>]]);
